@@ -1,4 +1,4 @@
-# Problem Statement:-
+# Problem Statement:
 Melanoma is a fatal disease, which needs to be diagnosed and cured at an earlier/benign stage. Provided a set of images of the lesions for a given patient, we have to detect the stage (Benign or Malignant) of melanoma. If we are successful in detecting melanoma at the Benign stage using the set of images for a person, we can help save lives.
 
 # Brief Description: 
@@ -18,6 +18,8 @@ In this project, we will identify melanoma in images of skin lesions. In particu
 Melanoma is a deadly disease, but if caught early, most melanomas can be cured with minor surgery. Image analysis tools that automate the diagnosis of melanoma will improve dermatologists' diagnostic accuracy. Better detection of melanoma has the opportunity to positively impact millions of people.
 
 Link for the Research Paper - https://arxiv.org/abs/2008.07360
+
 Link for the image dataset - https://www.kaggle.com/c/siim-isic-melanoma-classification/data
+
 The dataset represents 2,056 patients from three continents with an average of 16 lesions per patient, consisting of 33,126 dermoscopic images and 584 histopathologically
 confirmed melanomas compared with benign melanoma mimickers.
